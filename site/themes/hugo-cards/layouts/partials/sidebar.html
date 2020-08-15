@@ -1,0 +1,28 @@
+<div class="col-md-4 mt20">
+        <div class="post-img">
+           {{ if .Params.img }}
+            <img width="600" src="{{ .Site.BaseURL}}images/{{ .Params.img }}" alt="{{ .Params.title }}">
+            {{ else }}
+            <img width="600" src="{{ .Site.BaseURL }}images/{{ .Site.Params.defaultImage }}" alt="webjeda">
+            {{ end }}
+        </div>
+            
+        <div class="mt10 recent">
+            <h4>闭门造车</h4>
+            <p>《闭门造车》是一档关于创作者、创作故事和创作体验的访谈播客。</p>
+            <h4>收听和订阅</h4>
+            <p>页面上方列出来的播客平台，找你最喜欢的来听吧。我和闭门造车播客的联系方式都在这边，非常期待你的感想、建议和参与。在各个平台上的评论，我都会像收到意外礼物一样仔细阅读。感谢你的鼓励🙏</p>
+            <h4>联系方式</h4>        
+             <ul>
+                <li>Email：<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
+                <li>Telegram：<a href="{{ .Site.Params.telegram }}">Miki Hau</a></li>
+                <il>Github：<a href="{{ .Site.Params.github }}">gulugulufm</a></li>
+                <li>Twitter：<a href="{{ .Site.Params.twitter }}">@gulugulufm</a></li>
+                <li>微博：<a href="{{ .Site.Params.weibo }}">@闭门造车</a></li>
+                <li>豆瓣：<a href="{{ .Site.Params.douban }}">薇莱</a></li>
+            </ul>
+        </div>
+
+        <br>
+
+</div>

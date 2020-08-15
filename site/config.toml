@@ -1,0 +1,43 @@
+baseurl = "http://example.org/"
+languageCode = "zh-cn"
+title = "闭门造车"
+theme = "hugo-cards"
+paginate = 12
+
+[params]
+  builtBy = "bool"
+  defaultImage = "gulugulu.jpg"
+
+  twitter = "https://twitter.com/gulugulufm"
+  github = "https://github.com/gulugulufm"
+  email = "gulugulufm@gmail.com"
+  weibo = "https://weibo.com/p/1005057361235474/"
+  douban = "https://www.douban.com/people/49489567/"
+  telegram = "http://t.me/liquid_raspberry"
+
+  rss = "https://anchor.fm/s/2d9522d4/podcast/rss"
+  apple = "https://podcasts.apple.com/us/podcast/%E9%97%AD%E9%97%A8%E9%80%A0%E8%BD%A6/id1525084596"
+  spotify = "https://open.spotify.com/show/4FuOWZhWPvQXas4nMfdi4b"
+  ximalaya = "https://www.ximalaya.com/gerenchengzhang/40308087/321222819"
+  xiaoyuzhou = "https://www.xiaoyuzhoufm.com/podcast/5f1c6bbf9504bbdb771f8fd9"
+  overcast = "https://overcast.fm/itunes1525084596"
+  google = "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yZDk1MjJkNC9wb2RjYXN0L3Jzcw%3D%3D"
+  breaker = "https://www.breaker.audio/bi-men-zao-che"
+  pocketcast = "https://pca.st/pdognhfd"
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  [params.copyright]
+     name = "Miki Hau"
+     link = "https://www.douban.com/people/49489567/"
+     license_url = "https://creativecommons.org/licenses/by-nd/4.0/deed.zh"
+     license_name = "CC BY-ND 4.0"
+     host_name = "Github Pages"
+     host_url = "https://pages.github.com/"
+

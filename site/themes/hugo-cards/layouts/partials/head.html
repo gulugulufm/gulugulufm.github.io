@@ -1,0 +1,15 @@
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>{{ .Title}}{{if .IsPage}} - {{.Site.Title}}{{ end }}</title>
+{{partial "seo.html" .}}
+
+{{ $main := resources.Get "sass/main.scss" | resources.ToCSS (dict "outputStyle" "compressed")}}
+<link rel="stylesheet" href="{{ $main.RelPermalink }}">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+<!-- Load the Picobel CSS: https://github.com/tomhazledine/picobel -->
+<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/player.pitchfork.css" type='text/css'/>
+</head>
