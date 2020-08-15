@@ -1,4 +1,4 @@
-baseurl = "http://example.org/"
+baseurl = "https://gulugulufm.github.io/"
 languageCode = "zh-cn"
 title = "闭门造车"
 theme = "hugo-cards"
