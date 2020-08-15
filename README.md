@@ -1,7 +1,7 @@
 # gulugulufm.github.io
 Homepage for Gulugulufm.
 
-## TODO
+## TODO 
 [x] Cards display the proper amount of text (just title, timestamp, and audio length).
 [x] Displays ways to listen (a list of icons like Google podcasts) on the home page.
 [x] Adds all SNS links to the home page.
