@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 闭门造车</title><link>https://gulugulufm.github.io/posts/</link><description>Recent content in Posts on 闭门造车</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gulugulufm.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>b站up主姜笛：用视频承载表达欲望</title><link>https://gulugulufm.github.io/posts/self-expression-with-videos/</link><pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate><guid>https://gulugulufm.github.io/posts/self-expression-with-videos/</guid><description>Your browser does not support the audio element. 姜笛是b站视频up主，平时是web全栈工程师。从去年2月到现在的一年半时间里，他一直在做5分钟以内的编程科普视频，目前发布了43个各种各样话题的视频。粉丝评价是“宝藏up”、“有学习到”、“干货很多”。我今天想和姜笛一期谈谈他在视频制作过程中的各种体验、思考和看法。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 闭门造车</title>
+    <link>https://gulugulufm.github.io/posts/</link>
+    <description>Recent content in Posts on 闭门造车</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gulugulufm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>b站up主姜笛：用视频承载表达欲望</title>
+      <link>https://gulugulufm.github.io/posts/self-expression-with-videos/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gulugulufm.github.io/posts/self-expression-with-videos/</guid>
+      <description>Your browser does not support the audio element.  姜笛是b站视频up主，平时是web全栈工程师。从去年2月到现在的一年半时间里，他一直在做5分钟以内的编程科普视频，目前发布了43个各种各样话题的视频。粉丝评价是“宝藏up”、“有学习到”、“干货很多”。我今天想和姜笛一期谈谈他在视频制作过程中的各种体验、思考和看法。
 感想、建议和参与，请发邮件到gulugulufm@gmail.com，或者在豆瓣上豆油Miki。
 出场人物 姜笛：YouTube Channel，b站主页，播客《流动人口》Stray Population
 Miki ：豆瓣，Telegram
@@ -21,4 +40,8 @@ Miki ：豆瓣，Telegram
 36:29 现在大家其实都是流动人口
 38:36 请来联系闭门造车的Miki
 花絮 这一期有两个短短的对话片段没能进入主节目，但是内容挺有意思，弃掉太可惜了。所以现在以番外/花絮的形式发布出来。
-第一个是安利喜欢的视频号（正经脸）： Your browser does not support the audio element. 接下来是欢乐向的： Your browser does not support the audio element.</description></item></channel></rss>
+第一个是安利喜欢的视频号（正经脸）： Your browser does not support the audio element.  接下来是欢乐向的： Your browser does not support the audio element.</description>
+    </item>
+    
+  </channel>
+</rss>
