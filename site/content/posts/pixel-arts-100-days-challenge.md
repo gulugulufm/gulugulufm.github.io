@@ -23,9 +23,9 @@ description: "黄信滚刚刚完成了自己第一个百天挑战，在这100天
 
 ### 出场人物
 
-黄信滚：[豆瓣](https://www.douban.com/people/mfcndw/), [Twitter](https://www.douban.com/people/mfcndw/), [Telegram](https://twitter.com/MtFront)
+黄信滚：[豆瓣](https://www.douban.com/people/mfcndw/), [Twitter](https://twitter.com/MtFront), [Telegram](https://t.me/mtfront)
 
-Miki ：[豆瓣]((https://www.douban.com/people/49489567/))，[Telegram](https://t.me/liquid_raspberry)
+Miki ：[豆瓣](https://www.douban.com/people/49489567/)，[Telegram](https://t.me/liquid_raspberry)
 
 
 ### 时间轴

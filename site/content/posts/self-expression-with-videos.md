@@ -25,7 +25,7 @@ description: "姜笛是b站视频up主，平时是web全栈工程师。从去年
 
 姜笛：[YouTube Channel](https://www.youtube.com/channel/UC9z2DPYJtVI6dFQzt92kaFQ)，[b站主页](https://space.bilibili.com/228834724/)，[播客《流动人口》Stray Population](https://podcast.cscript.site/)
 
-Miki ：[豆瓣]((https://www.douban.com/people/49489567/))，[Telegram](https://t.me/liquid_raspberry)
+Miki ：[豆瓣](https://www.douban.com/people/49489567/)，[Telegram](https://t.me/liquid_raspberry)
 
 
 ### 时间轴
