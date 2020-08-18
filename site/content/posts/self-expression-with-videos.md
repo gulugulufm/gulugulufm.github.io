@@ -2,6 +2,7 @@
 layout: post
 title: "b站up主姜笛：用视频承载表达欲望"
 date: 2020-07-25
+slug: 1
 length: "39 mins"
 img: 01-camera.jpg
 tags: ["视频"]
@@ -72,7 +73,7 @@ Miki ：[豆瓣]((https://www.douban.com/people/49489567/))，[Telegram](https:/
 
 第一个是安利喜欢的视频号（正经脸）：
 {{< rawhtml >}}
-    <audio class="customPlayer" src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1595721506993.mp3" title="姜笛安利视频作者/团队: Casey Neistat, Liam Thompson , 台客剧场, 回形针, 李永乐, 敖厂长 , Fireside" data-artist="闭门造车·花絮" controls>
+    <audio class="customPlayer" src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1595721506993.mp3" title="姜笛安利视频作者/团队: Casey Neistat, Liam Thompson , 台客剧场, 回形针, 李永乐, 敖厂长 , Fireship" data-artist="闭门造车·花絮" controls>
         Your browser does not support the <code>audio</code> element.
     </audio>
 {{< /rawhtml >}}
