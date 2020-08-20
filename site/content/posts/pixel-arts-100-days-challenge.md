@@ -28,6 +28,13 @@ description: "黄信滚刚刚完成了自己第一个百天挑战，在这100天
 Miki ：[豆瓣](https://www.douban.com/people/49489567/)，[Telegram](https://t.me/liquid_raspberry)
 
 
+### 相关链接
+
+黄信滚完成百日挑战后的总结：[像素画的一小步，我人生的一大步 —— 100 days of pixel art](https://www.douban.com/note/773573673/)
+
+黄信滚的作品相册：[100 days pixel art](https://www.douban.com/photos/album/1873806508/)
+
+
 ### 时间轴
 
 00:30 100天像素画挑战的黄信滚
@@ -61,7 +68,7 @@ Miki ：[豆瓣](https://www.douban.com/people/49489567/)，[Telegram](https://t
 
 ### 花絮
 
-所以我们最后还是不知道黄信滚喜欢哪位大触。
+所以我们最后还是不知道黄信滚喜欢哪些大触。
 
 {{< rawhtml >}}
     <audio class="customPlayer" src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1597764826812.mp3" title="多在大触发作品的平台上活跃一点" data-artist="闭门造车·花絮" controls>
