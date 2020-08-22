@@ -7,6 +7,7 @@ length: "48 mins"
 img: 02-pixelart.png
 tags: ["绘画"]
 description: "黄信滚刚刚完成了自己第一个百天挑战，在这100天里集中产出像素画pixel art。从零开始而且每天耕耘的像素画挑战，这种高强度的学习和刻意练习的创作过程，到底是什么样的体验呢？我今天就和黄信滚一起来复盘TA画画的100天。"
+audio: "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-18/868264c1-27a7-0c60-3dc6-7c8089a0879f.mp3"
 ---
 
 

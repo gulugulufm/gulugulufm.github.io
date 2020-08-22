@@ -8,8 +8,8 @@ Homepage for Gulugulufm.
 - [x] Completes the about page.
 - [x] Adds icons (calendar, timer etc) to card display.
 - [x] Completes page: participate in the podcast (be our guest).
+- [x] Quick SEO -- keywords, description and everything else.
 
-- [ ] Quick SEO -- keywords, description and everything else.
 - [ ] Prettifies the guests page. Each guest should have a profile picture, links to their online presence, and short bio.
 - [ ] Extracts a layout for posts -- it should have things like intro, audio, guests.
 - [ ] Prettifies the audio player; good ones: https://byte.coffee/60, and soundcloud.

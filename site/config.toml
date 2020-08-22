@@ -3,11 +3,13 @@ languageCode = "zh-cn"
 title = "闭门造车"
 theme = "hugo-cards"
 paginate = 12
+googleAnalytics = "UA-176054859-1"
 
 [params]
+  author = "Miki Hau"
   description = "《闭门造车》是一档关于创作者、创作故事和创作体验的访谈播客。这里有Miki和各类创作者的深度访谈，讲述创作背后的故事。"
   defaultImage = "gulugulu.jpg"
-  Tagline = "关于创作者、创作故事和创作体验的访谈播客"
+  Tagline = "听到创作背后的故事"
 
   twitterHandle = "@gulugulufm"
   twitter = "https://twitter.com/gulugulufm"

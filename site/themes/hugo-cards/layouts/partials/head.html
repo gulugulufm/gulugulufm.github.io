@@ -4,12 +4,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>{{ .Title}}{{if .IsPage}} - {{.Site.Title}}{{ end }}</title>
+{{ template "_internal/opengraph.html" . }}
 {{partial "seo.html" .}}
+{{ template "_internal/google_analytics_async.html" . }}
 
 {{ $main := resources.Get "sass/main.scss" | resources.ToCSS (dict "outputStyle" "compressed")}}
 <link rel="stylesheet" href="{{ $main.RelPermalink }}">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css">
 <!-- Load the Picobel CSS: https://github.com/tomhazledine/picobel -->
 <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/player.pitchfork.css" type='text/css'/>
 </head>
