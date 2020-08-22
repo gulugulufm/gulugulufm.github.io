@@ -1,13 +1,14 @@
-<meta name="description" content="{{ if .Description }}{{ .Description | plainify }}{{ else }}{{if .IsPage}}{{ .Summary | plainify  }}{{ end }}{{ end }}"/>
+<meta name="description" content="{{if .IsPage}}{{ .Description | plainify  }}{{ else }}{{ if .Site.Params.Description }}{{ .Site.Params.Description | plainify }}{{ end }}{{ end }}"/>
 <meta name="robots" content="noodp"/>
 <link rel="canonical" href="{{ .Permalink }}" />
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="{{ if .Description }}{{ .Description | plainify }}{{ else }}{{if .IsPage}}{{ .Summary | plainify  }}{{ end }}{{ end }}" />
+<meta name="twitter:description" content="{{if .IsPage}}{{ .Description | plainify  }}{{ else }}{{ if .Site.Params.Description }}{{ .Site.Params.Description | plainify }}{{ end }}{{ end }}" />
 <meta name="twitter:title" content="{{ .Title }}{{ if .IsHome }} - {{ .Site.Params.Tagline }}{{ else }} - {{ .Site.Title }}{{ end }}" />
-<meta name="twitter:site" content="{{ .Site.Params.twitter }}" />
-<meta name="twitter:creator" content="{{ .Site.Params.twitter }}" />
+<meta name="twitter:site" content="{{ .Site.Params.twitterHandle }}" />
+<meta name="twitter:creator" content="{{ .Site.Params.twitterHandle }}" />
+<meta name="twitter:image" content="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/20/b7/81/20b7811a-79b6-6e79-d38c-67ac26afa769/mza_4338209028314469062.jpg/313x0w.jpg" />
 
 <!-- OG data -->
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />

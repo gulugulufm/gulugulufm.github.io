@@ -5,9 +5,11 @@ theme = "hugo-cards"
 paginate = 12
 
 [params]
-  builtBy = "bool"
+  description = "《闭门造车》是一档关于创作者、创作故事和创作体验的访谈播客。这里有Miki和各类创作者的深度访谈，讲述创作背后的故事。"
   defaultImage = "gulugulu.jpg"
+  Tagline = "关于创作者、创作故事和创作体验的访谈播客"
 
+  twitterHandle = "@gulugulufm"
   twitter = "https://twitter.com/gulugulufm"
   github = "https://github.com/gulugulufm"
   email = "gulugulufm@gmail.com"
@@ -16,12 +18,12 @@ paginate = 12
   telegram = "http://t.me/liquid_raspberry"
 
   rss = "https://anchor.fm/s/2d9522d4/podcast/rss"
-  apple = "https://podcasts.apple.com/us/podcast/%E9%97%AD%E9%97%A8%E9%80%A0%E8%BD%A6/id1525084596"
+  apple = "https://podcasts.apple.com/us/podcast/id1525084596"
   spotify = "https://open.spotify.com/show/4FuOWZhWPvQXas4nMfdi4b"
   ximalaya = "https://www.ximalaya.com/gerenchengzhang/40308087/321222819"
   xiaoyuzhou = "https://www.xiaoyuzhoufm.com/podcast/5f1c6bbf9504bbdb771f8fd9"
   overcast = "https://overcast.fm/itunes1525084596"
-  google = "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yZDk1MjJkNC9wb2RjYXN0L3Jzcw%3D%3D"
+  google = "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yZDk1MjJkNC9wb2RjYXN0L3Jzcw"
   breaker = "https://www.breaker.audio/bi-men-zao-che"
   pocketcast = "https://pca.st/pdognhfd"
 

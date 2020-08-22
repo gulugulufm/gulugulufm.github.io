@@ -2,6 +2,7 @@
 layout: page
 title: 往期嘉宾
 permalink: /guests/
+description: 每一期参与《闭门造车》的嘉宾
 ---
 
 - 姜笛
