@@ -28,6 +28,7 @@ googleAnalytics = "UA-176054859-1"
   google = "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yZDk1MjJkNC9wb2RjYXN0L3Jzcw"
   breaker = "https://www.breaker.audio/bi-men-zao-che"
   pocketcast = "https://pca.st/pdognhfd"
+  moonfm = "https://moon.fm/podcasts/724297"
 
   fbLikeBox = ""
   fbAppId = ""
