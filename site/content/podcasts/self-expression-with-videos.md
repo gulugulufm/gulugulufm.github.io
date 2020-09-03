@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: podcasts
 title: "b站up主姜笛：用视频承载表达欲望"
 date: 2020-07-25
 slug: 1
@@ -8,6 +8,7 @@ img: 01-camera.jpg
 tags: ["视频"]
 description: "姜笛是b站视频up主，平时是web全栈工程师。从去年2月到现在的一年半时间里，他一直在做5分钟以内的编程科普视频，目前发布了43个各种各样话题的视频。粉丝评价是“宝藏up”、“有学习到”、“干货很多”。我今天想和姜笛一期谈谈他在视频制作过程中的各种体验、思考和看法。"
 audio: "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-6-25/4932724e-ca89-a3d5-2ba5-65a9bc275a0b.mp3"
+aliases: ["/posts/1"]
 ---
 
 

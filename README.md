@@ -9,10 +9,13 @@ Homepage for Gulugulufm.
 - [x] Adds icons (calendar, timer etc) to card display.
 - [x] Completes page: participate in the podcast (be our guest).
 - [x] Quick SEO -- keywords, description and everything else.
+- [x] Switches posts/ to podcasts/, then redirects posts/[1-2] to podcasts[1-2].
 
+- [ ] Adds posts/ for articles.
 - [ ] Prettifies the guests page. Each guest should have a profile picture, links to their online presence, and short bio.
 - [ ] Extracts a layout for posts -- it should have things like intro, audio, guests.
 - [ ] Prettifies the audio player; good ones: https://byte.coffee/60, and soundcloud.
+- [ ] Fixes the player icons; they seem to be off by a few pixels.
 - [ ] Aligns that Douban icon with the other icons at the footer.
 - [ ] Shows latest tweets on a page; candidate library: https://github.com/jasonmayes/Twitter-Post-Fetcher.
 

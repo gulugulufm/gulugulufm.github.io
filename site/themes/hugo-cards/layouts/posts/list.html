@@ -1,11 +1,11 @@
 {{ define "main" }}
-
+<!-- I'm copied from _default/list.html, but I need an overhaul -->
 <div class="home">
  
   
     <div class="row pack">
 
-        {{ $paginator := .Paginate (where .Site.RegularPages "Section" "podcasts") }}
+        {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
         {{ range $paginator.Pages }}   
             <div class="col-md-4 card">
              <a href="{{ .Permalink }}" class="index-anchor">    
