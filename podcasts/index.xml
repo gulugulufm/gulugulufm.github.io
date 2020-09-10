@@ -6,10 +6,33 @@
     <description>Recent content in Podcasts on 闭门造车</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gulugulufm.github.io/podcasts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welly开发者汤洋、吕笠：谁有热情谁就有ownership</title>
+      <link>https://gulugulufm.github.io/podcasts/3/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gulugulufm.github.io/podcasts/3/</guid>
+      <description>Your browser does not support the audio element.  汤洋和吕笠在大学时代和几个小伙伴做了Welly，一个在MacOS上运行的BBS客户端，用于访问各大BBS论坛。十几年后的现在也一直在维护中，下载量达到了十万附近。今天我和这两位嘉宾在一起谈谈Welly制作缘由、制作趣闻、所有权，外加BBS社群、开源软件社群之轶事一二。
+⚠️ 警告：本集含有一定浓度的MacOS和软件开发这两个方面的黑话。虽然不太影响收听效果，但是为了补偿在录音过程中忘记解释的名词，我在show notes里加了相关链接。
+感想、建议和参与，请发邮件到gulugulufm@gmail.com，或者在豆瓣上豆油Miki。
+🗣 出场人物 吕笠：LinkedIn, Medium
+汤洋：LinkedIn, Twitter, Telegram
+Miki ：豆瓣, Telegram
+🔗 相关链接 Welly：在Google Code
+Welly：在Mac App Store
+Nally：在Google Code
+水木社区：newsmth.net
+未名空间：mitbbs.com
+批踢踢：ptt.cc
+闭门造车播客的友情链接：湾上说规划
+🧐 名词解释 开源软件和社区  Apache: 一个开源软件基金会 Apache Hadoop: Apache管理的一个项目 PMC: Project Management Committee，项目管理委员会 Github：一个存放代码的网站兼开发者社群 Google code：谷歌提供的开源软件管理平台，现已变为只读状态  苹果电脑的芯片 一般来说，一个准备好了的程序只能在特定的某一种芯片（CPU）上运行。但最近15年间苹果电脑曾经有两次芯片的改变，导致开发者需要对这种情况为程序做出改动。具体来说，
+ 从90年代到2005年，苹果电脑使用PowerPC芯片（播客中提到的名字是它的简称PPC)。 2005-2020年间，苹果MacBook使用Intel x86。为了帮助PowerPC的程序在Intel上也能运行，苹果发布了Rosetta来帮助迁移。开发者这边的解决方案是发布universal binary这种程序包，兼容两种CPU，使程序在两种CPU上都能运行。 2020年苹果宣布在所有的Mac上使用ARM，行销手段上把Mac电脑和iPhone/iPad/Apple Watch等产品的芯片统一称为Apple Silicon。相对应的，博客中提到的Rosetta 2用来帮助把原有Intel版本的程序“翻译”成ARM版本。 更详细的综述可以参考阮一峰苹果电脑为什么要换 CPU：Intel 与 ARM 的战争。  软件开发流程  fork: 完全复制一份，分叉成两个版本分别发展下去 patch：可以理解为源代码修改的记录 merge: 合并其他人的代码，代表接受修改 commit: 提交代码 svn：一个代码版本控制系统  其他  API：在节目中指苹果提供给开发者调用的各种功能 Growl：Mac上用于发出提醒的工具 MSRA: 微软亚洲研究院  ⏳ 时间轴 01:18 开发者吕笠和汤洋</description>
+    </item>
     
     <item>
       <title>黄信滚：100天像素画挑战</title>
