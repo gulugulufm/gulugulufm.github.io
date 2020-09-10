@@ -12,6 +12,7 @@ Homepage for Gulugulufm.
 - [x] Switches posts/ to podcasts/, then redirects posts/[1-2] to podcasts[1-2].
 
 - [ ] Adds posts/ for articles.
+- [ ] Larger font size for small screens at all places.
 - [ ] Prettifies the guests page. Each guest should have a profile picture, links to their online presence, and short bio.
 - [ ] Extracts a layout for posts -- it should have things like intro, audio, guests.
 - [ ] Prettifies the audio player; good ones: https://byte.coffee/60, and soundcloud.
@@ -23,3 +24,4 @@ Homepage for Gulugulufm.
 - layout aesthetics: https://epf.xyz/about
 - home page layout: https://byte.coffee
 - deployment: https://github.com/peaceiris/actions-gh-pages, https://medium.com/zendesk-engineering/a-github-actions-workflow-to-generate-publish-your-hugo-website-f36375e56cf7
+- [unsplash](https://unsplash.com/): photos for everyone

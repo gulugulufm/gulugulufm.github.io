@@ -9,8 +9,9 @@ description: 关于《闭门造车》播客
 
 ### 🎧 收听和订阅
 - [RSS]({{< param "rss" >}})：把这个RSS链接输入到泛用型播客客户端，就可以订阅《闭门造车》了。
-- [官方网站](gulugulufm.github.com)：现在所在的这个网站上，可以听到《闭门造车》出过的每一期。
-- [Apple Podcasts]({{< param "apple" >}}) (iOS, macOS, Web)
+- [官方网站](gulugulufm.github.com)：你现在所在的闭门造车官网上，可以听到《闭门造车》出过的每一期。
+- [Apple Podcasts]({{< param "apple" >}}) (iOS, macOS, Web)：这是除中国区以外的苹果播客目录中上架的节目。
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/%E9%97%AD%E9%97%A8%E9%80%A0%E8%BD%A6-%E4%B8%AD%E5%9B%BD%E7%89%88/id1525544698) (iOS, macOS, Web)：这是 _闭门造车中国版_，在中国区苹果播客目录中上架的节目。
 - [Spotify]({{< param "spotify" >}}) (Android, iOS, Web)
 - [喜马拉雅]({{< param "ximalaya" >}}) (Android, iOS, Web)
 - [小宇宙]({{< param "xiaoyuzhou" >}}) (Android, iOS)
@@ -18,8 +19,11 @@ description: 关于《闭门造车》播客
 - [Google Podcasts]({{< param "google" >}}) (Android, iOS, Web)
 - [Breaker]({{< param "breaker" >}}) (Android, iOS)
 - [Pocket Casts]({{< param "pocketcast" >}}) (Android, iOS, Web)
+- [Moon FM]({{< param "moonfm" >}}) (Android, iOS, macOS, Windows, Linux)
 
-其他客户端里搜索“闭门造车”，大概率也会发现这个节目。不过搜索的时候，可能会出现两个节目：_闭门造车_，还有 _闭门造车中国版_。这两个节目上架在不同的区域，不过是完全一样的内容，哪个都可以，放心去听吧。如果喜欢《闭门造车》的话，可以在平台上留言——你的反馈我会仔细斟酌，这样今后才能提高。
+其他客户端里搜索“闭门造车”，大概率也会发现这个节目。不过搜索的时候，可能会出现两个节目：_闭门造车_，还有 _闭门造车中国版_。这两个节目上架在不同的区域：_闭门造车中国版_ 在包括中国区的所有苹果播客目录中上架，_闭门造车_ 在除中国区外的所有目录中上架。内容上面，_闭门造车中国版_ 由喜马拉雅提供，所以是经过审核的，不过目前还没有遇到需要删减的情况。
+
+如果喜欢《闭门造车》的话，可以在平台上留言——你的反馈我会仔细斟酌。
 
 ### 👋 联系Miki
 
