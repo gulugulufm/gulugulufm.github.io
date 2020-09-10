@@ -1,7 +1,7 @@
 ---
 layout: podcasts
 title: "Welly开发者汤洋、吕笠：谁有热情谁就有ownership"
-date: 2020-09-09
+date: 2020-09-10
 slug: 3
 length: "59 mins"
 img: 03-welly.png
@@ -17,7 +17,7 @@ audio: "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-8-9/b27ceb1a-6382-af1
     </audio>
 {{< /rawhtml >}}
 
-汤洋和吕笠在大学时代和几个小伙伴做了Welly，一个在MacOS上运行的BBS客户端，用于访问各大BBS论坛。十几年后的现在也一直在维护中，下载量达到了十万附近。今天我和这两位嘉宾在一起谈谈Welly制作缘由、制作趣闻、所有权，外加BBS社群、开源软件社群之轶事一二。
+汤洋和吕笠在大学时代和几个小伙伴做了Welly，一个在MacOS上运行的BBS客户端，用于访问各大BBS论坛。十几年后的现在也一直在维护中，下载量达到了十万附近。今天我和这两位嘉宾在一起谈谈Welly的制作缘由、制作趣闻、所有权，外加BBS社群、开源软件社群之轶事一二。
 
 ⚠️ 警告：本集含有一定浓度的MacOS和软件开发这两个方面的黑话。虽然不太影响收听效果，但是为了补偿在录音过程中忘记解释的名词，我在show notes里加了相关链接。
 
