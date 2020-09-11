@@ -11,26 +11,14 @@ audio: "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-6-25/4932724e-ca89-a3
 aliases: ["/posts/1"]
 ---
 
-
-{{< rawhtml >}}
-    <audio class="customPlayer" src="https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-6-25/4932724e-ca89-a3d5-2ba5-65a9bc275a0b.mp3" title="b站up主姜笛：用视频承载表达欲望" data-artist="闭门造车" controls>
-        Your browser does not support the <code>audio</code> element.
-    </audio>
-{{< /rawhtml >}}
-
-姜笛是b站视频up主，平时是web全栈工程师。从去年2月到现在的一年半时间里，他一直在做5分钟以内的编程科普视频，目前发布了43个各种各样话题的视频。粉丝评价是“宝藏up”、“有学习到”、“干货很多”。我今天想和姜笛一期谈谈他在视频制作过程中的各种体验、思考和看法。
-
-感想、建议和参与，请发邮件到[gulugulufm@gmail.com](mailto:gulugulufm@gmail.com)，或者在豆瓣上[豆油Miki](https://www.douban.com/people/49489567/)。
-
-
-### 出场人物
+### 🗣 出场人物
 
 姜笛：[YouTube Channel](https://www.youtube.com/channel/UC9z2DPYJtVI6dFQzt92kaFQ)，[b站主页](https://space.bilibili.com/228834724/)，[播客《流动人口》Stray Population](https://podcast.cscript.site/)
 
 Miki ：[豆瓣](https://www.douban.com/people/49489567/)，[Telegram](https://t.me/liquid_raspberry)
 
 
-### 时间轴
+### ⏳ 时间轴
 
 00:37 b站up主姜笛
 
@@ -69,20 +57,12 @@ Miki ：[豆瓣](https://www.douban.com/people/49489567/)，[Telegram](https://t
 38:36 请来联系闭门造车的Miki
 
 
-### 花絮
+### 🧨 花絮
 
 这一期有两个短短的对话片段没能进入主节目，但是内容挺有意思，弃掉太可惜了。所以现在以番外/花絮的形式发布出来。
 
 第一个是安利喜欢的视频号（正经脸）：
-{{< rawhtml >}}
-    <audio class="customPlayer" src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1595721506993.mp3" title="姜笛安利视频作者/团队: Casey Neistat, Liam Thompson , 台客剧场, 回形针, 李永乐, 敖厂长 , Fireship" data-artist="闭门造车·花絮" controls>
-        Your browser does not support the <code>audio</code> element.
-    </audio>
-{{< /rawhtml >}}
+{{<audio-tidbits src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1595721506993.mp3" title="姜笛安利视频作者/团队: Casey Neistat, Liam Thompson , 台客剧场, 回形针, 李永乐, 敖厂长 , Fireship">}}
 
 接下来是欢乐向的：
-{{< rawhtml >}}
-    <audio class="customPlayer" src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1595721763185.mp3" title="我长得帅，我要更多的人来见证一下" data-artist="闭门造车·花絮" controls>
-        Your browser does not support the <code>audio</code> element.
-    </audio>
-{{< /rawhtml >}}
+{{<audio-tidbits src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1595721763185.mp3" title="我长得帅，我要更多的人来见证一下">}}

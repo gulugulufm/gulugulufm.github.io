@@ -7,22 +7,9 @@ length: "59 mins"
 img: 03-welly.png
 tags: ["软件"]
 description: "汤洋和吕笠在大学时代和几个小伙伴做了Welly，一个在MacOS上运行的BBS客户端，用于访问各大BBS论坛。十几年后的现在也一直在维护中，下载量达到了十万附近。今天我和这两位嘉宾在一起谈谈Welly制作缘由、制作趣闻、所有权，外加BBS社群、开源软件社群之轶事一二。"
+extras: "⚠️ 警告：本集含有一定浓度的MacOS和软件开发这两个方面的黑话。虽然不太影响收听效果，但是为了补偿在录音过程中忘记解释的名词，我在show notes里加了相关链接。"
 audio: "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-8-9/b27ceb1a-6382-af1b-edd4-30481ee08ef3.mp3"
 ---
-
-
-{{< rawhtml >}}
-    <audio class="customPlayer" src="https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-8-9/b27ceb1a-6382-af1b-edd4-30481ee08ef3.mp3" title="Welly开发者汤洋、吕笠：谁有热情谁就有ownership" data-artist="闭门造车" controls>
-        Your browser does not support the <code>audio</code> element.
-    </audio>
-{{< /rawhtml >}}
-
-汤洋和吕笠在大学时代和几个小伙伴做了Welly，一个在MacOS上运行的BBS客户端，用于访问各大BBS论坛。十几年后的现在也一直在维护中，下载量达到了十万附近。今天我和这两位嘉宾在一起谈谈Welly的制作缘由、制作趣闻、所有权，外加BBS社群、开源软件社群之轶事一二。
-
-⚠️ 警告：本集含有一定浓度的MacOS和软件开发这两个方面的黑话。虽然不太影响收听效果，但是为了补偿在录音过程中忘记解释的名词，我在show notes里加了相关链接。
-
-感想、建议和参与，请发邮件到[gulugulufm@gmail.com](mailto:gulugulufm@gmail.com)，或者在豆瓣上[豆油Miki](https://www.douban.com/people/49489567/)。
-
 
 ### 🗣 出场人物
 
@@ -118,16 +105,8 @@ Nally：在[Google Code](https://code.google.com/archive/p/nally/)
 
 ### 🧨 花絮
 
-{{< rawhtml >}}
-    <audio class="customPlayer" src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1599570071932.mp3" title="我当时为了去WWDC差点连毕业照都没照上" data-artist="闭门造车·花絮" controls>
-        Your browser does not support the <code>audio</code> element.
-    </audio>
-{{< /rawhtml >}}
+{{<audio-tidbits src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1599570071932.mp3" title="我当时为了去WWDC差点连毕业照都没照上">}}
 
-{{< rawhtml >}}
-    <audio class="customPlayer" src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1599570453113.mp3" title="WWDC里总能找到一个适合自己的地方" data-artist="闭门造车·花絮" controls>
-        Your browser does not support the <code>audio</code> element.
-    </audio>
-{{< /rawhtml >}}
+{{<audio-tidbits src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1599570453113.mp3" title="WWDC里总能找到一个适合自己的地方">}}
 
 这期就到这里了。听到这里的话，不管你是从大学开始就混BBS的老用户，因为这期对从前的日子泛起过追忆，还是平时不玩BBS，觉得开启了新世界的大门，都可以到Mac App Store去试试Welly。感谢收听！

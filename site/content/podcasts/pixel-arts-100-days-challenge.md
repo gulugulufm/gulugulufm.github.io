@@ -11,33 +11,21 @@ audio: "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-18/868264c1-27a7-0c
 aliases: ["/posts/2"]
 ---
 
-
-{{< rawhtml >}}
-    <audio class="customPlayer" src="https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-18/868264c1-27a7-0c60-3dc6-7c8089a0879f.mp3" title="黄信滚：100天像素画挑战" data-artist="闭门造车" controls>
-        Your browser does not support the <code>audio</code> element.
-    </audio>
-{{< /rawhtml >}}
-
-黄信滚刚刚完成了自己第一个百天挑战，在这100天里集中产出像素画pixel art。从零开始而且每天耕耘的像素画挑战，这种高强度的学习和刻意练习的创作过程，到底是什么样的体验呢？我今天就和黄信滚一起来复盘TA画画的100天。
-
-感想、建议和参与，请发邮件到[gulugulufm@gmail.com](mailto:gulugulufm@gmail.com)，或者在豆瓣上[豆油Miki](https://www.douban.com/people/49489567/)。
-
-
-### 出场人物
+### 🗣 出场人物
 
 黄信滚：[豆瓣](https://www.douban.com/people/mfcndw/), [Twitter](https://twitter.com/MtFront), [Telegram](https://t.me/mtfront)
 
 Miki ：[豆瓣](https://www.douban.com/people/49489567/)，[Telegram](https://t.me/liquid_raspberry)
 
 
-### 相关链接
+### 🔗 相关链接
 
 黄信滚完成百日挑战后的总结：[像素画的一小步，我人生的一大步 —— 100 days of pixel art](https://www.douban.com/note/773573673/)
 
 黄信滚的作品相册：[100 days pixel art](https://www.douban.com/photos/album/1873806508/)
 
 
-### 时间轴
+### ⏳ 时间轴
 
 00:30 100天像素画挑战的黄信滚
 
@@ -68,12 +56,8 @@ Miki ：[豆瓣](https://www.douban.com/people/49489567/)，[Telegram](https://t
 45:52 第一期反馈、网站发布、请来联系闭门造车的Miki
 
 
-### 花絮
+### 🧨 花絮
 
 所以我们最后还是不知道黄信滚喜欢哪些大触。
 
-{{< rawhtml >}}
-    <audio class="customPlayer" src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1597764826812.mp3" title="多在大触发作品的平台上活跃一点" data-artist="闭门造车·花絮" controls>
-        Your browser does not support the <code>audio</code> element.
-    </audio>
-{{< /rawhtml >}}
+{{<audio-tidbits src="https://storage.googleapis.com/firstory-709db.appspot.com/Record/ckcyy5sdwrbqi0870gfsgvdl9/1597764826812.mp3" title="多在大触发作品的平台上活跃一点">}}

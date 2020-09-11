@@ -10,6 +10,7 @@ Homepage for Gulugulufm.
 - [x] Completes page: participate in the podcast (be our guest).
 - [x] Quick SEO -- keywords, description and everything else.
 - [x] Switches posts/ to podcasts/, then redirects posts/[1-2] to podcasts[1-2].
+- [x] Make it more obvious to find links to podcast apps. See this example: https://avocadotoast.live/episodes/53
 
 - [ ] Adds posts/ for articles.
 - [ ] Larger font size for small screens at all places.
