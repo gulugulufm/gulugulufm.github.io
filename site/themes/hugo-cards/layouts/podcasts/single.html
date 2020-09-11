@@ -7,6 +7,25 @@
           <header class="post-header">
             <h1 class="post-title" itemprop="name headline">{{ .Title }}</h1>
             <p class="post-meta"><time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}' itemprop="datePublished">{{ .Date.Format "January 2, 2006" }}</time>{{ with .Params.Author }} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ . }}</span></span>{{ end }}</p>                
+            <div class="dropdown">
+              <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                在播客平台收听
+                <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                <li><a href="{{ .Site.Params.rss }}">RSS</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="{{ .Site.Params.apple }}">Apple Podcasts</a></li>
+                <li><a href="{{ .Site.Params.spotify }}">Spotify</a></li>
+                <li><a href="{{ .Site.Params.ximalaya }}">喜马拉雅</a></li>
+                <li><a href="{{ .Site.Params.xiaoyuzhou }}">小宇宙</a></li>
+                <li><a href="{{ .Site.Params.overcast }}">Overcast</a></li>
+                <li><a href="{{ .Site.Params.google }}">Google Podcasts</a></li>
+                <li><a href="{{ .Site.Params.breaker }}">Breaker</a></li>
+                <li><a href="{{ .Site.Params.pocketcast }}">Pocket Casts</a></li>
+                <li><a href="{{ .Site.Params.moonfm }}">Moon FM</a></li>
+              </ul>
+            </div>
           </header>
 
           <div class="post-content" itemprop="articleBody">
