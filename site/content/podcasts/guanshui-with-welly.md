@@ -26,6 +26,8 @@ Welly：在[Google Code](https://code.google.com/archive/p/welly/)
 
 Welly：在[Mac App Store](https://apps.apple.com/cn/app/id1521402269)
 
+Welly：在[Github](https://wellybbs.com/zh-Hans/)
+
 Nally：在[Google Code](https://code.google.com/archive/p/nally/)
 
 水木社区：[newsmth.net](https://www.newsmth.net/index.html)
