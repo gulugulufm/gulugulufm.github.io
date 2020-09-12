@@ -29,16 +29,12 @@ description: 关于《闭门造车》播客
 
 总之，感谢偶然跟《闭门造车》这档播客产生缘分的你。欢迎进一步来联系，分享你的感想、建议和参与。不过我私心喜欢收到邮件，因为每一个发出去的邮件都是用心写过的，所以收到每一封都很惊喜很感动。
 
-{{< rawhtml >}}
-    <ul>
-        <li>Email：<a href="mailto:{{ .Site.Params.email }}">gulugulufm@gmail.com</a></li>
-        <li>Telegram：<a href="{{ .Site.Params.telegram }}">Miki Hau</a></li>
-        <li>Github：<a href="{{ .Site.Params.github }}">gulugulufm</a></li>
-        <li>Twitter：<a href="{{ .Site.Params.twitter }}">@gulugulufm</a></li>
-        <li>微博：<a href="{{ .Site.Params.weibo }}">@闭门造车</a></li>
-        <li>豆瓣：<a href="{{ .Site.Params.douban }}">薇莱</a></li>
-    </ul>
-{{< /rawhtml >}}
+- Email：[gulugulufm@gmail.com](mailto:gulugulufm@gmail.com)
+- Telegram：[Miki Hau]({{<param telegram>}})
+- Github：[gulugulufm]({{<param github>}})
+- Twitter：[@gulugulufm]({{<param twitter>}})
+- 微博：[@闭门造车]({{<param weibo>}})
+- 豆瓣：[薇莱]({{<param douban>}})
 
 ### 🎙️ 参与节目，成为《闭门造车》的嘉宾
 剥去采访和播客这种形式上的东西，《闭门造车》播客本身是每一期的嘉宾打造的。嘉宾在交流中透出的的真诚、慷慨的分享精神，还有想去创造些什么的craftsmanship，每每都让我受到启发和鼓舞。继续抛开多余的表象，不但《闭门造车》是由以各种形式在创作着的创作者们贡献的，连我们生活的这个世界也是创作者们搭建起来的。如果你在工作、爱好、副业、生活里，在创作着什么；如果你在创作方面有故事、经验、见解，想跟更多的人分享，请一定来联系闭门造车的主播Miki。
