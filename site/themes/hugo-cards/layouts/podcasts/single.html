@@ -17,6 +17,7 @@
             <ul class="pager">
               <li><a class="previous" target="_blank" href="{{ .Site.Params.rss }}">🎧&nbsp;&nbsp;RSS</a></a></li>
               <li><a class="previous" target="_blank" href="{{ .Site.Params.apple }}">🎧&nbsp;&nbsp;Apple Podcasts</a></li>
+              <li><a class="previous" target="_blank" href="{{ .Site.Params.apple_cn }}">🎧&nbsp;&nbsp;Apple Podcasts(中国版)</a></li>
               <li><a class="previous" target="_blank" href="{{ .Site.Params.spotify }}">🎧&nbsp;&nbsp;Spotify</a></li>
               <li><a class="previous" target="_blank" href="{{ .Site.Params.ximalaya }}">🎧&nbsp;&nbsp;喜马拉雅</a></li>
               <li><a class="previous" target="_blank" href="{{ .Site.Params.xiaoyuzhou }}">🎧&nbsp;&nbsp;小宇宙</a></li>
@@ -31,7 +32,7 @@
             {{ if isset .Params "extras" }} 
               <p>{{ .Params.extras }}</p>
             {{ end }}
-            <p>感想、建议和参与，请发邮件到<a href="mailto:gulugulufm@gmail.com">gulugulufm@gmail.com</a>，或者在豆瓣上<a href="https://www.douban.com/people/49489567/m">豆油Miki</a>。</p>
+            <p>如果在你的播放器里看不到文字中的超链接，请到闭门造车官网<a href="{{ .Site.BaseURL }}podcasts/{{ .Slug }}">gulugulufm.github.io/podcasts/{{ .Slug }}</a>阅读完整版。感想、建议和参与，请发邮件到<a href="mailto:gulugulufm@gmail.com">gulugulufm@gmail.com</a>，或者在豆瓣上<a href="https://www.douban.com/people/49489567/m">豆油Miki</a>。</p>
             
             {{ .Content }}
           </div>
