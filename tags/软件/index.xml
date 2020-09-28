@@ -6,11 +6,7 @@
     <description>Recent content in 软件 on 闭门造车</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gulugulufm.github.io/tags/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gulugulufm.github.io/tags/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welly开发者汤洋、吕笠：谁有热情谁就有ownership</title>
       <link>https://gulugulufm.github.io/podcasts/3/</link>
@@ -20,6 +16,22 @@
       <description>🗣 出场人物 吕笠：LinkedIn, Medium
 汤洋：LinkedIn, Twitter, Telegram
 Miki ：豆瓣, Telegram
+⏳ 时间轴 01:18 开发者吕笠和汤洋
+03:11 BBS不光是公告牌，更像是论坛、聊天室、即时通讯、email的合体
+06:23 水木清华在05年的时候被fork成了两份
+09:42 买了一台MacBook，发现在MacBook上没有相应的BBS灌水软件，就是这么开始的
+13:21 给原先的团队想要贡献回去，但被无情地拒绝了
+16:45 一个开源软件最开始都是为了满足自己的需求，因为我们要用，所以我们要做
+24:04 Welly这样的软件，开源是最传统、最容易做出成果的方法
+27:45 很多开源软件创造的初衷是希望有更多人使用，帮更多人解决问题
+32:30 想让Welly在现在最新的系统上能正常运行其实是一件挺费劲的事
+38:09 这个软件常用常新，始终跟随在时代的最前沿还是挺有意思的
+40:49 Private API; Telnet BBS是没有任何格式信息的，全都要靠我们一些heuristics去猜
+46:37 有的只是一腔热血（一个人的大学本科只有4年的时间）
+50:21 第一次去参加WWDC这种大会的体验很难去用语言来形容
+53:44 像一个澡堂子那样你一言我一语
+57:18 微博和Twitter、请来联系闭门造车的Miki
+58:12 友情链接：湾上说规划
 🔗 相关链接 Welly：在Google Code
 Welly：在Mac App Store
 Welly：在Github
@@ -28,8 +40,7 @@ Nally：在Google Code
 未名空间：mitbbs.com
 批踢踢：ptt.cc
 闭门造车播客的友情链接：湾上说规划
-🧐 名词解释 开源软件和社区  Apache: 一个开源软件基金会 Apache Hadoop: Apache管理的一个项目 PMC: Project Management Committee，项目管理委员会 Github：一个存放代码的网站兼开发者社群 Google code：谷歌提供的开源软件管理平台，现已变为只读状态  苹果电脑的芯片 一般来说，一个准备好了的程序只能在特定的某一种芯片（CPU）上运行。但最近15年间苹果电脑曾经有两次芯片的改变，导致开发者需要对这种情况为程序做出改动。具体来说，
- 从90年代到2005年，苹果电脑使用PowerPC芯片（播客中提到的名字是它的简称PPC)。 2005-2020年间，苹果MacBook使用Intel x86。为了帮助PowerPC的程序在Intel上也能运行，苹果发布了Rosetta来帮助迁移。开发者这边的解决方案是发布universal binary这种程序包，兼容两种CPU，使程序在两种CPU上都能运行。 2020年苹果宣布在所有的Mac上使用ARM，行销手段上把Mac电脑和iPhone/iPad/Apple Watch等产品的芯片统一称为Apple Silicon。相对应的，博客中提到的Rosetta 2用来帮助把原有Intel版本的程序“翻译”成ARM版本。 更详细的综述可以参考阮一峰苹果电脑为什么要换 CPU：Intel 与 ARM 的战争。  软件开发流程  fork: 完全复制一份，分叉成两个版本分别发展下去 patch：可以理解为源代码修改的记录 merge: 合并其他人的代码，代表接受修改 commit: 提交代码 svn：一个代码版本控制系统  其他  API：在节目中指苹果提供给开发者调用的各种功能 Growl：Mac上用于发出提醒的工具 MSRA: 微软亚洲研究院  ⏳ 时间轴 01:18 开发者吕笠和汤洋</description>
+🧐 名词解释 开源软件和社区  Apache: 一个开源软件基金会 Apache Hadoop: Apache管理的一个项目 PMC: Project Management Committee，项目管理委员会 Github：一个存放代码的网站兼开发者社群 Google code：谷歌提供的开源软件管理平台，现已变为只读状态  苹果电脑的芯片 一般来说，一个准备好了的程序只能在特定的某一种芯片（CPU）上运行。但最近15年间苹果电脑曾经有两次芯片的改变，导致开发者需要对这种情况为程序做出改动。具体来说，</description>
     </item>
     
   </channel>
