@@ -19,22 +19,32 @@
             <div class="col-md-4 text-right mt25">
                 {{with  .Site.Params.email }}
                 <a target="_blank" href="mailto:{{.}}">
-                    <li class="social email"><i class="fa fa-envelope"></i></li>
+                    <li class="social email"><i class="fas fa-envelope"></i></li>
+                </a>
+                {{ end }}
+                {{with  .Site.Params.substack }}
+                <a target="_blank" href="{{.}}">
+                    <li class="social substack"><i class="fas fa-mail-bulk"></i></li>
                 </a>
                 {{ end }}
                 {{with  .Site.Params.twitter }}
                 <a target="_blank" href="{{.}}">
-                    <li class="social twitter"><i class="fa fa-twitter-square"></i></li>
+                    <li class="social twitter"><i class="fab fa-twitter"></i></li>
                 </a>
                 {{ end }}
                 {{with  .Site.Params.weibo }}
                 <a target="_blank" href="{{.}}">
-                    <li class="social telegram"><i class="fa fa-weibo"></i></li>
+                    <li class="social telegram"><i class="fab fa-weibo"></i></li>
                 </a>
                 {{ end }}
                 {{with  .Site.Params.telegram }}
                 <a target="_blank" href="{{.}}">
-                    <li class="social telegram"><i class="fa fa-telegram"></i></li>
+                    <li class="social telegram"><i class="fab fa-telegram"></i></li>
+                </a>
+                {{ end }}
+                {{with  .Site.Params.github }}
+                <a target="_blank" href="{{.}}">
+                    <li class="social github"><i class="fab fa-github"></i></li>
                 </a>
                 {{ end }}
                 {{with  .Site.Params.douban }}
@@ -51,11 +61,6 @@
                             <defs />
                         </svg>
                     </li>
-                </a>
-                {{ end }}
-                {{with  .Site.Params.github }}
-                <a target="_blank" href="{{.}}">
-                    <li class="social github"><i class="fa fa-github-square"></i></li>
                 </a>
                 {{ end }}
             </div>

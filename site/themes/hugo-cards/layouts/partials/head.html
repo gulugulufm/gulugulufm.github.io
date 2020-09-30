@@ -10,7 +10,7 @@
 
 {{ $main := resources.Get "sass/main.scss" | resources.ToCSS (dict "outputStyle" "compressed")}}
 <link rel="stylesheet" href="{{ $main.RelPermalink }}">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/66166439c7.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css">
 <!-- Load the Picobel CSS: https://github.com/tomhazledine/picobel -->
 <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/player.pitchfork.css" type='text/css'/>
