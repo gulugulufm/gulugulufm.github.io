@@ -32,3 +32,8 @@ Homepage for Gulugulufm.
 - home page layout: https://byte.coffee
 - deployment: https://github.com/peaceiris/actions-gh-pages, https://medium.com/zendesk-engineering/a-github-actions-workflow-to-generate-publish-your-hugo-website-f36375e56cf7
 - [unsplash](https://unsplash.com/): photos for everyone
+
+## Automation
+- anchor, ximalaya, substack, matters: consider automating the publication workflow using [selenium and/or airflow](https://towardsdatascience.com/selenium-on-airflow-automate-a-daily-online-task-60afc05afaae)
+- twitter, weibo: use their API
+- douban: no automation needed

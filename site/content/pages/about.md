@@ -9,7 +9,7 @@ description: 关于《闭门造车》播客
 
 ### 🎧 收听和订阅
 - [RSS]({{< param "rss" >}})：把这个RSS链接输入到泛用型播客客户端，就可以订阅《闭门造车》了。
-- [官方网站](gulugulufm.github.com)：你现在所在的闭门造车官网上，可以听到《闭门造车》出过的每一期。
+- [官方网站](gulugulufm.github.com)：你现在所在的闭门造车官网上，可以听到《闭门造车》出过的每一期，以及只在官网上发布的各期花絮。
 - [Substack 邮件列表]({{<param substack>}})：这里收录和发布播客的每一期节目和文章，直接发到你的邮箱里。
 - [Apple Podcasts]({{< param "apple" >}}) (iOS, macOS, Web)：这是**闭门造车**，除中国区以外的苹果播客目录中上架的节目。
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/%E9%97%AD%E9%97%A8%E9%80%A0%E8%BD%A6-%E4%B8%AD%E5%9B%BD%E7%89%88/id1525544698) (iOS, macOS, Web)：这是**闭门造车（中国版）**，在中国区苹果播客目录中上架的节目。
