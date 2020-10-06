@@ -28,13 +28,23 @@
               <li><a class="previous" target="_blank" href="{{ .Site.Params.moonfm }}">🎧&nbsp;&nbsp;Moon FM</a></li>
              </ul>
 
-            <p>{{ .Description }}</p>
-            {{ if isset .Params "extras" }} 
-              <p>{{ .Params.extras }}</p>
-            {{ end }}
-            <p>如果在你的播放器里看不到文字中的超链接，请到闭门造车官网<a href="{{ .Site.BaseURL }}podcasts/{{ .Slug }}">gulugulufm.github.io/podcasts/{{ .Slug }}</a>阅读完整版。感想、建议和参与，请发邮件到<a href="mailto:gulugulufm@gmail.com">gulugulufm@gmail.com</a>，或者在豆瓣上<a href="https://www.douban.com/people/49489567/m">豆油Miki</a>。</p>
-            
-            {{ .Content }}
+            <section>
+              <p>{{ .Description }}</p>
+              {{ if isset .Params "extras" }}
+                <p>{{ .Params.extras }}</p>
+              {{ end }}
+              <p>如果在你的播放器里看不到文字中的超链接，请到闭门造车官网<a href="{{ .Site.BaseURL }}podcasts/{{ .Slug }}">gulugulufm.github.io/podcasts/{{ .Slug }}</a>阅读完整版。感想、建议和参与，请发邮件到<a href="mailto:gulugulufm@gmail.com">gulugulufm@gmail.com</a>，或者在豆瓣上<a href="https://www.douban.com/people/49489567/m">豆油Miki</a>。</p>
+            </section>
+            <section>
+              <hr>
+              {{ .Content }}
+            </section>
+            <section>
+              {{ if isset .Params "outro" }}
+                <hr>
+                <p>{{ .Params.outro }}感谢收听！</p>
+              {{ end }}
+            </section>
           </div>
 
     </article>
