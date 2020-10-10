@@ -17,3 +17,6 @@ description: 每一期参与《闭门造车》的嘉宾
 - 吕笠
     - [LinkedIn](https://www.linkedin.com/in/li-lu-77110715), [Medium](https://medium.com/@lilu_98243)
     - 做客于[Welly开发者汤洋、吕笠：谁有热情谁就有ownership]({{< ref "../podcasts/03-guanshui-with-welly.md" >}})
+- Siyi
+    - [Twitter](https://twitter.com/41shen)
+    - 做客于[环境法研究员Siyi：写自己真正关心的内容]({{< ref "../podcasts/04-environmental-law-research.md" >}})

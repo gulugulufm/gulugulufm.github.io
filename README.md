@@ -12,8 +12,8 @@ Homepage for Gulugulufm.
 - [x] Switches posts/ to podcasts/, then redirects posts/[1-2] to podcasts[1-2].
 - [x] Make it more obvious to find links to podcast apps. See this example: https://avocadotoast.live/episodes/53
 - [x] Music credit
+- [x] Adds a contact page for feedback. Example: https://amcy.fm/contact
 
-- [ ] Adds a contact page for feedback. Example: https://amcy.fm/contact
 - [ ] Adds posts/ for articles.
 - [ ] Adds Listen Notes [link](https://www.listennotes.com/podcasts/%E9%97%AD%E9%97%A8%E9%80%A0%E8%BD%A6-miki-hau-TZQtXb8A7h4/) to how we listen.
 - [ ] Larger font size for small screens at all places.
@@ -32,8 +32,3 @@ Homepage for Gulugulufm.
 - home page layout: https://byte.coffee
 - deployment: https://github.com/peaceiris/actions-gh-pages, https://medium.com/zendesk-engineering/a-github-actions-workflow-to-generate-publish-your-hugo-website-f36375e56cf7
 - [unsplash](https://unsplash.com/): photos for everyone
-
-## Automation
-- anchor, ximalaya, substack, matters: consider automating the publication workflow using [selenium and/or airflow](https://towardsdatascience.com/selenium-on-airflow-automate-a-daily-online-task-60afc05afaae)
-- twitter, weibo: use their API
-- douban: no automation needed
