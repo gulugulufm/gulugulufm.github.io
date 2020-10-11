@@ -8,6 +8,8 @@
 {{partial "seo.html" .}}
 {{ template "_internal/google_analytics_async.html" . }}
 
+<script data-ad-client="ca-pub-9272477388105272" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 {{ $main := resources.Get "sass/main.scss" | resources.ToCSS (dict "outputStyle" "compressed")}}
 <link rel="stylesheet" href="{{ $main.RelPermalink }}">
 <script src="https://kit.fontawesome.com/66166439c7.js" crossorigin="anonymous"></script>
