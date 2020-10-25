@@ -34,10 +34,10 @@ description: 关于《闭门造车》播客
 总之，感谢偶然跟《闭门造车》这档播客产生缘分的你。欢迎进一步来联系，分享你的感想、建议和参与。不过我私心喜欢收到邮件，因为每一个发出去的邮件都是用心写过的，所以收到每一封都很惊喜很感动。
 
 - Email：[gulugulufm@gmail.com](mailto:gulugulufm@gmail.com)
-- Telegram：[Miki Hau]({{<param telegram>}})
+- Telegram群：[闭门造车茶馆]({{<param telegram>}})
 - Github：[gulugulufm]({{<param github>}})
 - Twitter：[@gulugulufm]({{<param twitter>}})
-- Substack：[闭门造车邮政]({{<param substack>}})
+- Substack邮件列表：[闭门造车邮政]({{<param substack>}})
 - 微博：[@闭门造车]({{<param weibo>}})
 - 豆瓣：[薇莱]({{<param douban>}})
 
