@@ -32,11 +32,6 @@
                     <li class="social twitter"><i class="fab fa-twitter"></i></li>
                 </a>
                 {{ end }}
-                {{with  .Site.Params.weibo }}
-                <a target="_blank" href="{{.}}">
-                    <li class="social telegram"><i class="fab fa-weibo"></i></li>
-                </a>
-                {{ end }}
                 {{with  .Site.Params.telegram }}
                 <a target="_blank" href="{{.}}">
                     <li class="social telegram"><i class="fab fa-telegram"></i></li>
@@ -45,6 +40,11 @@
                 {{with  .Site.Params.github }}
                 <a target="_blank" href="{{.}}">
                     <li class="social github"><i class="fab fa-github"></i></li>
+                </a>
+                {{ end }}
+                {{with  .Site.Params.mastodon }}
+                <a target="_blank" href="{{.}}">
+                    <li class="social mastodon"><i class="fab fa-mastodon"></i></li>
                 </a>
                 {{ end }}
                 {{with  .Site.Params.douban }}

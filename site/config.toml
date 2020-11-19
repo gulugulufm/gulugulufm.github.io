@@ -19,6 +19,7 @@ googleAnalytics = "UA-176054859-1"
   weibo = "https://weibo.com/p/1005057361235474/"
   douban = "https://www.douban.com/people/49489567/"
   telegram = "https://t.me/gulugulufm"
+  mastodon = "https://m.cmx.im/@mikihau"
 
   rss = "https://anchor.fm/s/2d9522d4/podcast/rss"
   apple = "https://podcasts.apple.com/us/podcast/id1525084596"
@@ -47,4 +48,3 @@ googleAnalytics = "UA-176054859-1"
      license_name = "CC BY-ND 4.0"
      host_name = "Github Pages"
      host_url = "https://pages.github.com/"
-

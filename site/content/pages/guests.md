@@ -20,3 +20,9 @@ description: 每一期参与《闭门造车》的嘉宾
 - Siyi
     - [Twitter](https://twitter.com/41shen)
     - 做客于[环境法研究员Siyi：写自己真正关心的内容]({{< ref "../podcasts/04-environmental-law-research.md" >}})
+- PixelMage
+    - [邮箱](huajian.hhj@gmail.com), [思否](https://segmentfault.com/u/pixelmage), [indiehackers.net](https://indiehackers.net/pxmage)
+    - 做客于[独立开发者PixelMage：成就感来源于自己做的APP]({{< ref "../podcasts/05-indie-software-development.md" >}})
+- Yifei
+    - [豆瓣](https://www.douban.com/people/sylvia_smile/)
+    - 做客于[编剧/导演Yifei：每一个故事都有自己的命]({{< ref "../podcasts/06-a-farewell-and-beyond.md" >}})

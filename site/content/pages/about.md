@@ -38,7 +38,7 @@ description: 关于《闭门造车》播客
 - Github：[gulugulufm]({{<param github>}})
 - Twitter：[@gulugulufm]({{<param twitter>}})
 - Substack邮件列表：[闭门造车邮政]({{<param substack>}})
-- 微博：[@闭门造车]({{<param weibo>}})
+- Mastodon：[@mikihau@m.cmx.im]({{<param mastodon>}})
 - 豆瓣：[薇莱]({{<param douban>}})
 
 ### 🎙️ 参与节目，成为《闭门造车》的嘉宾
