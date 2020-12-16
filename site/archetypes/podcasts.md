@@ -15,7 +15,7 @@ outro: ""
 
 
 
-Miki：[豆瓣](https://www.douban.com/people/49489567/)，[Telegram](https://t.me/liquid_raspberry)
+Miki：[Mastodon](https://m.cmx.im/@mikihau)，[豆瓣](https://www.douban.com/people/49489567/)，[Telegram](https://t.me/liquid_raspberry)
 
 
 ### ⏳ 时间轴
