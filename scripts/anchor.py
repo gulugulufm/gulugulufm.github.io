@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 from bs4 import BeautifulSoup
+import sys
 
-with open('/home/index.html', 'r') as f:
+with open(sys.argv[1], 'r') as f:
     content = f.read()
 soup = BeautifulSoup(content, 'html.parser')
 
@@ -33,11 +34,7 @@ first_p.wrap(wrapper_tag)
 for p in next_ps:
     wrapper_tag.append(p)
 
-with open('/home/anchor.txt', 'w') as f:
-    f.write(soup.article.h1.text)
-    f.write('\n')
-    f.write(wrapper_tag.prettify())
-
-with open('/home/anchor.txt', 'r') as f:
-    print(f.read())
+print(soup.article.h1.text)
+print('\n')
+print(wrapper_tag.prettify())
 

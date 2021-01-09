@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 from bs4 import BeautifulSoup, NavigableString
+import sys
 
-def process_meat(f):
+def process_meat():
     first_h3 = True
     for tag in section.contents:
         if isinstance(tag, NavigableString):
@@ -10,31 +11,27 @@ def process_meat(f):
             break
         if tag.name == 'h3':
             if first_h3:
-                f.write(f'--- {tag.text[1:].strip()} ---\n') # glob [1:] to purge emoji
+                print(f'--- {tag.text[1:].strip()} ---\n') # glob [1:] to purge emoji
                 first_h3 = False
             else:
-                f.write(f'\n--- {tag.text[1:].strip()} ---\n')
+                print(f'\n--- {tag.text[1:].strip()} ---\n')
         else:
-            f.write(f'{tag.text}\n')
+            print(f'{tag.text}\n')
 
-def process_everything_else(f):
+def process_everything_else():
     for tag in section.contents:
         if isinstance(tag, NavigableString):
             continue
         if tag.name == 'p': # ignoring everything else except for p's
-            f.write(f'\n{tag.text}\n')
+            print(f'\n{tag.text}\n')
 
-with open('/home/index.html', 'r') as f:
+with open(sys.argv[1], 'r') as f:
     content = f.read()
 soup = BeautifulSoup(content, 'html.parser')
 
-with open('/home/ximalaya.txt', 'w') as f:
-    sections = soup.article.div.find_all('section')
-    for i, section in enumerate(sections):
-        if i == 1: # the 2nd section is the meat of the article
-            process_meat(f)
-        else:
-            process_everything_else(f)
-
-with open('/home/ximalaya.txt', 'r') as f:
-    print(f.read())
+sections = soup.article.div.find_all('section')
+for i, section in enumerate(sections):
+    if i == 1: # the 2nd section is the meat of the article
+        process_meat()
+    else:
+        process_everything_else()
