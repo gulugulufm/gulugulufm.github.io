@@ -47,6 +47,11 @@
                     <li class="social mastodon"><i class="fab fa-mastodon"></i></li>
                 </a>
                 {{ end }}
+                {{with  .Site.Params.jike }}
+                <a target="_blank" href="{{.}}">
+                    <li class="social jike"><i class="fas fa-hourglass"></i></li>
+                </a>
+                {{ end }}
                 {{with  .Site.Params.douban }}
                 <a target="_blank" href="{{.}}">
                     <!-- Reference: https://ruby-china.org/topics/33498 -->
