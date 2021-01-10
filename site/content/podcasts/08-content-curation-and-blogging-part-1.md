@@ -45,7 +45,7 @@ Miki：[Mastodon](https://m.cmx.im/@mikihau)，[豆瓣](https://www.douban.com/p
 
 ### 🔗 相关链接
 
-Linghao的博客：[Synthesist in the Shell](linghao.io)
+Linghao的博客：[Synthesist in the Shell](https://linghao.io/)
 
 David Perell关于线上写作的文章：[The Ultimate Guide to Writing Online](https://perell.com/essay/the-ultimate-guide-to-writing-online/)
 
