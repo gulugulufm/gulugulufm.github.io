@@ -34,7 +34,5 @@ first_p.wrap(wrapper_tag)
 for p in next_ps:
     wrapper_tag.append(p)
 
-print(soup.article.h1.text)
-print('\n')
 print(wrapper_tag.prettify())
 

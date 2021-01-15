@@ -11,19 +11,19 @@ def process_meat():
             break
         if tag.name == 'h3':
             if first_h3:
-                print(f'--- {tag.text[1:].strip()} ---\n') # glob [1:] to purge emoji
+                print(f'--- {tag.text[1:].strip()} ---') # glob [1:] to purge emoji
                 first_h3 = False
             else:
-                print(f'\n--- {tag.text[1:].strip()} ---\n')
+                print(f'\n--- {tag.text[1:].strip()} ---')
         else:
-            print(f'{tag.text}\n')
+            print(f'{tag.text}')
 
 def process_everything_else():
     for tag in section.contents:
         if isinstance(tag, NavigableString):
             continue
         if tag.name == 'p': # ignoring everything else except for p's
-            print(f'\n{tag.text}\n')
+            print(f'\n{tag.text}')
 
 with open(sys.argv[1], 'r') as f:
     content = f.read()
