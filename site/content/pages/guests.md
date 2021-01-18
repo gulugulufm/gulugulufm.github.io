@@ -28,4 +28,4 @@ description: 每一期参与《闭门造车》的嘉宾
     - 做客于[编剧/导演Yifei：每一个故事都有自己的命]({{< ref "../podcasts/06-a-farewell-and-beyond.md" >}})
 - Linghao
     - [主页](https://linghao.io/)，[Telegram](https://t.me/linghao)，[Twitter](https://twitter.com/instante_42)，[Github](https://github.com/dnc1994)
-    - 做客于[博客作者和内容推荐者Linghao：把感动传递下去（上篇）]({{< ref "../podcasts/08-content-curation-and-blogging-part-1.md" >}})
+    - 做客于[博客作者和内容推荐者Linghao：把感动传递下去（上篇）]({{< ref "../podcasts/08-content-curation-and-blogging-part-1.md" >}})，[博客作者和内容推荐者Linghao：把感动传递下去（下篇）]({{< ref "../podcasts/09-content-curation-and-blogging-part-2.md" >}})

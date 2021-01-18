@@ -14,6 +14,7 @@ Homepage for Gulugulufm.
 - [x] Music credit
 - [x] Adds a contact page for feedback. Example: https://amcy.fm/contact
 
+- [ ] Prettifies the audio player; a cool library: https://jessieji.com/2020/shikwasa-2.
 - [ ] Swaps out anything googleapi :(  https://www.google.com/search?q=%E5%A2%99%E5%86%85+jquery+min&oq=%E5%A2%99%E5%86%85+jquery+min&aqs=chrome..69i57j33.1636j0j1&sourceid=chrome&ie=UTF-8
 - [ ] Auto generates guests.
 - [ ] Adds posts/ for articles.
@@ -21,7 +22,6 @@ Homepage for Gulugulufm.
 - [ ] Larger font size for small screens at all places.
 - [ ] Prettifies the guests page. Each guest should have a profile picture, links to their online presence, and short bio.
 - [ ] Extracts a layout for posts -- it should have things like intro, audio, guests.
-- [ ] Prettifies the audio player; a cool library: https://jessieji.com/2020/shikwasa-2.
 - [ ] Fixes the player icons; they seem to be off by a few pixels.
 - [ ] Aligns that Douban icon with the other icons at the footer.
 
