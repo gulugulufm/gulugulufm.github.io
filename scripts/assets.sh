@@ -17,3 +17,7 @@ if [ $(($1 % 2)) -eq 0 ]; then
 else
     $SCRIPT_DIR/audiogram.sh -e $1 -m light;
 fi
+
+cd $SITE_DIR && hugo -D
+python $SCRIPT_DIR/snsgen.py $1
+rm -r $SITE_DIR/public

@@ -31,10 +31,10 @@ for filename in $OUTPUT_DIR/*; do
     esac
 done
 
-#echo "Starting step 3: generating formatted show notes"
-#cd $SITE_DIR && hugo -D
-#python $SCRIPT_DIR/$2.py $SITE_DIR/public/podcasts/$1/index.html | tee $output
+echo "Starting step 3: generating formatted show notes"
+cd $SITE_DIR && hugo -D
+python $SCRIPT_DIR/$2.py $SITE_DIR/public/podcasts/$1/index.html | tee $output
 
-#rm -r $SITE_DIR/public
+rm -r $SITE_DIR/public
 
-#echo "\nOutput file is ready at $output"
+echo "\nOutput file is ready at $output"

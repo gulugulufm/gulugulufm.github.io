@@ -1,6 +1,9 @@
 <meta name="description" content="{{if .IsPage}}{{ .Description | plainify  }}{{ else }}{{ if .Site.Params.Description }}{{ .Site.Params.Description | plainify }}{{ end }}{{ end }}"/>
 <meta name="robots" content="noodp"/>
 <link rel="canonical" href="{{ .Permalink }}" />
+{{if isset .Params "tags"}}
+<meta name="keywords" content="{{ delimit .Params.tags "," }}" />
+{{end}}
 
 <!-- OG data -->
 <meta property="og:site_name" content="{{ .Site.Title }}" />

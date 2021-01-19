@@ -1,4 +1,5 @@
 beautifulsoup4>=4.9.3
 emoji>=0.6.0
+Mako>=1.1.4
 Mastodon.py>=1.5.1
 PyYAML>=5.3.1
