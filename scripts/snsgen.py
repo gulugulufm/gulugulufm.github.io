@@ -36,6 +36,7 @@ episode_data = {
     'intro': intro,
     'episode_url': url,
     'tags': tags,
+    'kansou': '', # TODO
     'video': os.path.join(VIDEO_DIR, f"{episode if len(episode) > 1 else '0' + episode}-trailer.mp4")
 }
 
@@ -48,7 +49,9 @@ services = {
     #'douban': {},
     #'jike': {},
     #'substack': {},
-    #'telegram': {},
+    'tg': {
+        'message': os.path.join(OUTPUT_DIR, 'tg.txt')
+    },
     #'twitter': {},
 }
 

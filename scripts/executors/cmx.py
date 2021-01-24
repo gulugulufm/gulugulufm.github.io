@@ -23,15 +23,18 @@ Mastodon.create_app(
 config_file = os.path.join(RESOURCES_DIR, 'cmx.yml')
 if not os.path.isfile(config_file):
     print(f'Config file not found: file doesn\'t exist on {config_file}.')
+    sys.exit(1)
 
 with open(config_file, 'r') as f:
     data = yaml.load(f, Loader=yaml.FullLoader)
 
 if not os.path.isfile(data['video']):
     print(f"Video file no found: file doesn\'t exist on {data['video']}.")
+    sys.exit(1)
 
 if not os.path.isfile(data['status']):
-    print(f"Stats file no found: file doesn\'t exist on {data['status']}.")
+    print(f"Status file no found: file doesn\'t exist on {data['status']}.")
+    sys.exit(1)
 
 # Then login. This can be done every time, or use persisted.
 with open(os.path.join(SECRETS_DIR, 'mastodon_logincred.secret'), 'r') as cred:

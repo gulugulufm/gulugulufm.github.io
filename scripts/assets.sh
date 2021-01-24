@@ -21,3 +21,5 @@ fi
 cd $SITE_DIR && hugo -D
 python $SCRIPT_DIR/snsgen.py $1
 rm -r $SITE_DIR/public
+
+# We don't run the executors just yet ...

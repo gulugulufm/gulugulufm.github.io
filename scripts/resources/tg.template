@@ -1,0 +1,5 @@
+#新番发布 《闭门造车》Ep.${episode}，来自 @liquid_raspberry ${'：' + kansou if kansou else ''}
+
+${intro}
+
+完整收听：${episode_url}
