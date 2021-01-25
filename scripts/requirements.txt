@@ -4,3 +4,4 @@ Mako>=1.1.4
 Mastodon.py>=1.5.1
 PyYAML>=5.3.1
 selenium>=3.141.0
+tweepy @ git+https://github.com/tweepy/tweepy.git@6ea0d02ada1973c98993fd9b066cf5689dcef090

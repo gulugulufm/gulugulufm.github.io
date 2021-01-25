@@ -2,11 +2,16 @@
 import requests
 import yaml
 
+import argparse
 import os
 import sys
 
 SECRETS_DIR = f"/Users/{os.environ.get('USER')}/Documents/projects/gulugulufm.github.io/scripts/secrets"
 RESOURCES_DIR = f"/Users/{os.environ.get('USER')}/Documents/projects/gulugulufm.github.io/scripts/snsgen-output"
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--dryrun', help='dry run mode', action='store_true')
+args = parser.parse_args()
 
 # Just checking
 executor_name = os.path.basename(__file__).split('.')[0]
@@ -30,8 +35,7 @@ with open(data['message'], 'r') as f:
 
 # Now send the message
 send_data = {
-    'chat_id': login_secrets['chat_id'], # this is our test group
-    #'chat_id': '@gulugulufm', # this is the real telegram group
+    'chat_id': login_secrets['chat_id'] if args.dryrun else '@gulugulufm',
     'text': message
 }
 url = f"https://api.telegram.org/bot{login_secrets['bot_token']}/sendMessage"

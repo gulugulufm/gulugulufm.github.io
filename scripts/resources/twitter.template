@@ -1,0 +1,10 @@
+《闭门造车》#${episode}
+
+${intro_shortened}
+
+完整收听: ${episode_url}
+
+% for tag in tags:
+#${tag} \
+% endfor 
+#创作 #播客
