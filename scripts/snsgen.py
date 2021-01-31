@@ -47,14 +47,17 @@ episode = sys.argv[1]
 url = soup.find('meta', attrs={'property': 'og:url'})['content'].rstrip('/')
 intro = soup.find('meta', attrs={'name': 'description'})['content']
 tags = soup.find('meta', attrs={'name': 'keywords'})['content'].split(',')
+guest = soup.find('meta', attrs={'property': 'og:title'})['content'].split('：')[0]
 episode_data = {
     'episode': episode,
+    'guest': guest,
     'intro': intro,
     'intro_shortened': get_intro_shortened(intro, tags), # just for twitter
     'episode_url': url,
     'tags': tags,
     'kansou': '', # TODO
-    'video': os.path.join(VIDEO_DIR, f"{episode if len(episode) > 1 else '0' + episode}-trailer.mp4")
+    'video': os.path.join(VIDEO_DIR, f"{episode if len(episode) > 1 else '0' + episode}-trailer.mp4"),
+    'photo': os.path.join(VIDEO_DIR, f"{episode if len(episode) > 1 else '0' + episode}-trailer.mp4-3.jpg")
 }
 
 # write 2 files for each service: *.template for the text, *.yml for all metadata/fields
@@ -63,7 +66,11 @@ services = {
         'status': os.path.join(OUTPUT_DIR, 'cmx.txt'),
         'video': episode_data['video']
     },
-    #'douban': {},
+    'douban': {
+        'status': os.path.join(OUTPUT_DIR, 'douban.txt'),
+        'photo': episode_data['photo'],
+        'topic': '聊聊那些有趣的播客'
+    },
     #'jike': {},
     #'substack': {},
     'telegram': {
@@ -80,4 +87,4 @@ for service in services:
     with open(os.path.join(OUTPUT_DIR, f'{service}.txt'), 'w') as outfile:
         outfile.write(template.render(**episode_data))
     with open(os.path.join(OUTPUT_DIR, f'{service}.yml'), 'w') as outfile:
-        yaml.dump(services[service], outfile)
+        yaml.dump(services[service], outfile, allow_unicode=True)
