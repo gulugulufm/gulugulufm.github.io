@@ -2,7 +2,7 @@
 layout: podcasts
 title: ""
 date: "{{ now.Format "2006-01-02" }}"
-slug: {{ add 1 (len (where .Site.Pages "Section" "podcasts")) }}
+slug: {{ len (where .Site.Pages "Section" "podcasts") }}
 length: " mins"
 img: image-1.png
 tags: [""]

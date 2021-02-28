@@ -29,3 +29,6 @@ description: 每一期参与《闭门造车》的嘉宾
 - Linghao
     - [主页](https://linghao.io/)，[Telegram](https://t.me/linghao)，[Twitter](https://twitter.com/instante_42)，[Github](https://github.com/dnc1994)
     - 做客于[博客作者和内容推荐者Linghao：把感动传递下去（上篇）]({{< ref "../podcasts/08-content-curation-and-blogging-part-1.md" >}})，[博客作者和内容推荐者Linghao：把感动传递下去（下篇）]({{< ref "../podcasts/09-content-curation-and-blogging-part-2.md" >}})
+- 育承
+    - [Email](mailto:ducksteven@gmail.com)，[Instagram](https://www.instagram.com/yorkxin/)，[播客《足元注意》](https://amcy.fm/)
+    - 做客于[播客制作者育承：Premature Optimization Is the Root of All Evil]({{< ref "../podcasts/10-premature-optimization.md" >}})
