@@ -6,7 +6,39 @@
     <description>Recent content in 播客 on 闭门造车</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gulugulufm.github.io/tags/%E6%92%AD%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gulugulufm.github.io/tags/%E6%92%AD%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>播客制作者育承：Premature Optimization Is the Root of All Evil</title>
+      <link>https://gulugulufm.github.io/podcasts/10/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gulugulufm.github.io/podcasts/10/</guid>
+      <description>🗣 出场人物 育承：Email，Instagram，播客《足元注意》
+Miki：Mastodon，豆瓣，Telegram
+⏳ 时间轴 00:01:00 播客制作者育承
+00:01:44 阻断既有拖延症又不想付钱的这个微妙的状态
+00:05:17 我至少不要让自己的节目因为怕被断所以就避开讲一些东西
+00:10:01 铁了心我就买了
+00:17:37 domain name连退都不能退，一旦固定下来就永远都是这样了
+00:20:19 iTunes会根据你有没有订阅而显示不一样的内容
+00:24:37 这个功能我到学到这个概念的时候才知道怎么用
+00:28:22 用几个工具把它组装起来做一个好玩的东西
+00:32:53 我要满足自己的需求可是我知道别人也有一样的需求
+00:35:27 我就看合用我就用，不合用我再想办法咯
+00:39:34 太去在意这件事情的话（追逐数据的高）反而对自己身心不是很好
+00:41:25 先求有再求好
+00:46:43 听到之后有head exploded那个emoji 🤯 的那种感觉我才会喜欢
+01:07:30 本期花絮、请来联系闭门造车的Miki
+🔗 相关链接 育承的播客节目：足元注意
+育承的Instagram相册：@yorkxin 和 @ycserif
+育承的播客订阅列表：Podcasts@Airtable
+育承的的读书清单：Books@Airtable
+Audiogram产生器：amcyfm-utils
+加字幕的小工具：Pao Ma Teng
+节目中提到过的播客制作和发布的相关工具（按字母顺序）：Amazon AWS, Audacity, Fireside, Blubrry, ffmpeg, Garageband, Hindenburg Journalist Pro, Podcast Measurement Technical Guidelines by IAB, Reaper, Typlog
+Cal Newport 所著书籍：Digital Minimalism</description>
+    </item>
+    
     <item>
       <title>特别篇：推广闭门造车播客，Miki的尝试和经验</title>
       <link>https://gulugulufm.github.io/podcasts/7/</link>
